@@ -351,3 +351,4 @@ typings/
 
 # zip aft-archives
 *.zip
+.history
